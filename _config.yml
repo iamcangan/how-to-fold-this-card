@@ -1,0 +1,10 @@
+theme: jekyll-theme-merlot
+
+title: Project WeddingBells - How to fold the wedding card
+description: A dummy description for now. May be replace with sth better
+show_downloads: false
+relative_links:
+  enabled: true
+  collections: true
+include:
+ - index.md
