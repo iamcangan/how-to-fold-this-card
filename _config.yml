@@ -2,6 +2,10 @@ remote_theme: iamcangan/merlot
 
 title: Project WeddingBells - How to fold the wedding card
 description: A dummy description for now. May be replace with sth better
+
+site.github.is_project_page: false
+site.github.is_user_page: false
+
 show_downloads: false
 relative_links:
   enabled: true
