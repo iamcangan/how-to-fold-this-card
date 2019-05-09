@@ -1,5 +1,12 @@
 remote_theme: iamcangan/merlot
 
+plugins:
+          - jekyll-redirect-from
+
+---
+redirect_from: "/how-to-fold/"
+---
+
 title: Project Wedding Bells
 description: A dummy description for now. May be replace with sth better
 
